@@ -1,5 +1,4 @@
-# Varsg — Faculty Timetable Management System
-
+# Faculty Timetable Generator
 Varsg is a full-stack web application for managing faculty, departments, subjects, and sections, and for automatically generating class timetables. It was built as a MERN-stack project (MongoDB, Express, React, Node.js).
 
 ## Features
